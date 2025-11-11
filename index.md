@@ -5,8 +5,8 @@
 **Name:** Ishaan Bal  
 **Email:** ibal@ucsd.edu
 
-**Section:** [Your Section Name/Number]  
-**Mentor:** [Your Mentor's Name]
+**Section:** B23  
+**Mentor:** Justin Eldridge
 
 ---
 
